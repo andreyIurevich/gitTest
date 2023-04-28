@@ -8,6 +8,8 @@ function add() {
   // comment
   console.log('add function');
   // 2 comment
+  // 3 comment
+  // 4 comment
 }
 
 add();
