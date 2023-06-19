@@ -15,6 +15,7 @@ function add() {
   // 7 comment
   // 8 comment
   // 9 comment
+  // 12 comment
 }
 
 add();
