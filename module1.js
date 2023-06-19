@@ -23,6 +23,8 @@ function add() {
   // 14 comment
   // 15 comment
   // 16 comment
+  // 17 comment
+  // 18 comment
 }
 
 add();
